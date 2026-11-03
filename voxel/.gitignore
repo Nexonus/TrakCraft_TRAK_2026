@@ -1,0 +1,6 @@
+/build*/
+/.tools/
+/results/
+/imgui.ini
+*.user
+.vs/
