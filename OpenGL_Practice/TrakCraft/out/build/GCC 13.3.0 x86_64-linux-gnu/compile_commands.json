@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/nexreon/Pulpit/C++/TrakCraft/out/build/GCC 13.3.0 x86_64-linux-gnu",
+  "command": "/usr/bin/g++  -I/home/nexreon/Pulpit/C++/TrakCraft/include -g -std=gnu++17 -o CMakeFiles/TrakCraft.dir/src/main.cpp.o -c /home/nexreon/Pulpit/C++/TrakCraft/src/main.cpp",
+  "file": "/home/nexreon/Pulpit/C++/TrakCraft/src/main.cpp",
+  "output": "CMakeFiles/TrakCraft.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/nexreon/Pulpit/C++/TrakCraft/out/build/GCC 13.3.0 x86_64-linux-gnu",
+  "command": "/usr/bin/gcc  -I/home/nexreon/Pulpit/C++/TrakCraft/include -g -o CMakeFiles/TrakCraft.dir/src/glad.c.o -c /home/nexreon/Pulpit/C++/TrakCraft/src/glad.c",
+  "file": "/home/nexreon/Pulpit/C++/TrakCraft/src/glad.c",
+  "output": "CMakeFiles/TrakCraft.dir/src/glad.c.o"
+}
+]
